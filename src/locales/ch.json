@@ -28,5 +28,5 @@
   "projects.orderBack": "線上菜單使用者管理前台 (React、Ant Design)",
   "projects.orderBackDesc": "使用者能夠新建、編輯餐廳資訊，例如營業時間，菜單品項，訂單狀態等操作",
   "projects.order": "線上菜單 (React、Typescript、Ant Design)",
-  "projects.orderDesc": "使用者能夠透過掃Qr qode進行線上點餐"
+  "projects.orderDesc": "使用者能夠透過掃Qr code進行線上點餐"
 }

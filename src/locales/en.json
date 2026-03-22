@@ -28,5 +28,5 @@
   "projects.orderBack": "Online menu admin management (React、Ant Design)",
   "projects.orderBackDesc": "Users can create and edit restaurant information, such as business hours, menu items, order status, etc.",
   "projects.order": "Online Menu (React、Typescript、Ant Design)",
-  "projects.orderDesc": "Users can order online by scanning Qr qode in a restaurant"
+  "projects.orderDesc": "Users can order online by scanning Qr code in a restaurant"
 }

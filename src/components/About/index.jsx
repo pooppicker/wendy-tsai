@@ -1,4 +1,3 @@
-import React, { useState } from "react";
 import styles from "./style.module.scss";
 import Button from "../PrimaryButton";
 import { useTranslation } from "react-i18next";
@@ -48,20 +47,6 @@ const About = () => {
       skill: "Material UI",
     },
   ];
-
-  let x = 20;
-
-  function outer() {
-    let x = 10;
-
-    function inner() {
-      console.log(x);
-    }
-
-    return inner;
-  }
-  const fn = outer();
-  fn();
 
   return (
     <>
